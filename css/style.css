@@ -1,0 +1,67 @@
+.bg-fondo{
+    background-image: url(/fondo.jpg);
+    
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 1366px 550px;
+   
+   
+}
+.foto .img-fluid{
+    border-radius: 50%;
+    border: oldlace solid 5px;
+    position: absolute;
+    
+}
+.text-white{
+    color: white; text-shadow: black 0.1em 0.1em 0.2em;
+}
+.estudio{
+    background-color: #0f4c75;
+}
+.fondo2{
+    background-image: url(/fondo2.png);
+    background-repeat: no-repeat;
+    
+   
+}
+.conocimiento{
+  background-color: #1b262c;
+}
+
+.circulo {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+  margin:0 auto;
+  padding:3%;
+  
+}
+
+.circulo > h2 {
+	font-family: sans-serif;
+	color: white;
+	font-size: 1rem;
+    font-weight: bold;
+    padding-top:10px;
+}
+.icono-grande{
+    font-size: 300px;
+}
+.circulos {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+  padding:3%;
+  
+}
