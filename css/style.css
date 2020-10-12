@@ -1,5 +1,5 @@
 .bg-fondo{
-    background-image: url(/fondo.jpg);
+    background-image: url(/img/fondo.jpg);
     
     background-repeat: no-repeat;
     background-position: center center;
@@ -20,7 +20,7 @@
     background-color: #0f4c75;
 }
 .fondo2{
-    background-image: url(/fondo2.png);
+    background-image: url(/img/fondo2.png);
     background-repeat: no-repeat;
     
    
