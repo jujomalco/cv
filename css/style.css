@@ -1,5 +1,5 @@
 .bg-fondo{
-    background-image: url(/img/fondo.jpg);
+    background-image: url(../img/fondo.jpg);
     
     background-repeat: no-repeat;
     background-position: center center;
@@ -20,7 +20,7 @@
     background-color: #0f4c75;
 }
 .fondo2{
-    background-image: url(/img/fondo2.png);
+    background-image: url(../img/fondo2.png);
     background-repeat: no-repeat;
     
    
@@ -64,4 +64,22 @@
 	text-align: center;
   padding:3%;
   
+}
+.idioma{
+    background: url(../img/fondoidioma1.png) no-repeat,
+                url(../img/fondoidioma1380.png);
+    height: 435px;
+}
+
+.img-proyectos{
+    max-height: 200px;
+    max-width: 300px;
+}
+.texto-proyecto
+{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: none;
 }
